@@ -1,0 +1,1038 @@
+E:\environment\python.exe E:/BaiduNetdiskDownload/pycharm/project/大众点评/Test1.py
+603
+打印第1页
+[<li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="l7dKOYLSvg2ouBvr" href="http://www.dianping.com/shop/l7dKOYLSvg2ouBvr" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="冶珈啡(钟楼店)" data-src="https://img.meituan.net/msmerchant/bb2d36d36f4191a2104af64a2f1a5c58122775.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="https://img.meituan.net/msmerchant/bb2d36d36f4191a2104af64a2f1a5c58122775.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="冶珈啡(钟楼店)"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="l7dKOYLSvg2ouBvr" href="http://www.dianping.com/shop/l7dKOYLSvg2ouBvr" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:1,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','l7dKOYLSvg2ouBvr');" target="_blank" title="冶珈啡(钟楼店)">
+<h4>冶珈啡(钟楼店)</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+</div>
+<div class="star_score score_50 star_score_sml">4.81</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="l7dKOYLSvg2ouBvr" href="http://www.dianping.com/shop/l7dKOYLSvg2ouBvr#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">7</svgmtsi><svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">2</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="l7dKOYLSvg2ouBvr" href="http://www.dianping.com/shop/l7dKOYLSvg2ouBvr" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">3</svgmtsi><svgmtsi class="shopNum">2</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="l7dKOYLSvg2ouBvr" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="l7dKOYLSvg2ouBvr" href="http://www.dianping.com/xian/ch10/r1754"><span class="tag">钟<svgmtsi class="tagName"></svgmtsi>/鼓<svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>9<svgmtsi class="address"></svgmtsi></span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="l7dKOYLSvg2ouBvr" href="http://www.dianping.com/shop/l7dKOYLSvg2ouBvr/dish218060119" target="_blank">澳白</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="l7dKOYLSvg2ouBvr" href="http://www.dianping.com/shop/l7dKOYLSvg2ouBvr/dish246152274" target="_blank">薄荷莫吉托</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="l7dKOYLSvg2ouBvr" href="http://www.dianping.com/shop/l7dKOYLSvg2ouBvr/dish414498" target="_blank">香草拿铁</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">7</svgmtsi><svgmtsi class="shopNum">8</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">7</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">6</svgmtsi></b></span>
+</span>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="l7dKOYLSvg2ouBvr" data-name="冶珈啡(钟楼店)" data-shopid="l7dKOYLSvg2ouBvr" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="中柳巷9号" data-click-name="shop_map_click" data-poi="HBWJWFZURIFHGU" data-shopid="l7dKOYLSvg2ouBvr" data-sname="冶珈啡" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="l7dKOYLSvg2ouBvr" data-sname="冶珈啡" data-url="/search/around/17/0_l7dKOYLSvg2ouBvr{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="kaa9jgow6s4ufLJd" href="http://www.dianping.com/shop/kaa9jgow6s4ufLJd" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="春庄咖啡集合店" data-src="https://img.meituan.net/msmerchant/824dc39944a0604bf606fc53842d9f3a37682.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="https://img.meituan.net/msmerchant/824dc39944a0604bf606fc53842d9f3a37682.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="春庄咖啡集合店"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="kaa9jgow6s4ufLJd" href="http://www.dianping.com/shop/kaa9jgow6s4ufLJd" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:2,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','kaa9jgow6s4ufLJd');" target="_blank" title="春庄咖啡集合店">
+<h4>春庄咖啡集合店</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+</div>
+<div class="star_score score_50 star_score_sml">4.85</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="kaa9jgow6s4ufLJd" href="http://www.dianping.com/shop/kaa9jgow6s4ufLJd#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b>11<svgmtsi class="shopNum">4</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="kaa9jgow6s4ufLJd" href="http://www.dianping.com/shop/kaa9jgow6s4ufLJd" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">4</svgmtsi>1</b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="kaa9jgow6s4ufLJd" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="kaa9jgow6s4ufLJd" href="http://www.dianping.com/xian/ch10/r1754"><span class="tag">钟<svgmtsi class="tagName"></svgmtsi>/鼓<svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr">竹笆<svgmtsi class="address"></svgmtsi>钟<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>9<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi></span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="kaa9jgow6s4ufLJd" href="http://www.dianping.com/shop/kaa9jgow6s4ufLJd/dish203334328" target="_blank">豆腐华夫饼</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="kaa9jgow6s4ufLJd" href="http://www.dianping.com/shop/kaa9jgow6s4ufLJd/dish202877419" target="_blank">冲绳拿铁</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="kaa9jgow6s4ufLJd" href="http://www.dianping.com/shop/kaa9jgow6s4ufLJd/dish203330235" target="_blank">黑熊拿铁</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">2</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">2</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">9</svgmtsi></b></span>
+</span>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="kaa9jgow6s4ufLJd" data-name="春庄咖啡集合店" data-shopid="kaa9jgow6s4ufLJd" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="竹笆市钟楼小区9号楼一层商铺" data-click-name="shop_map_click" data-poi="HBWGSSZURICJJL" data-shopid="kaa9jgow6s4ufLJd" data-sname="春庄咖啡集合店" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="kaa9jgow6s4ufLJd" data-sname="春庄咖啡集合店" data-url="/search/around/17/0_kaa9jgow6s4ufLJd{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="" data-midas="productid%3D74%26pctr%3D0.08083732533702102%26ad_cj%3DoqLXt0h04QraCiHfAYnqw6kIovtuG-lCBH4CvlsXzaOoYIiUFykSkoO3DWxdtByMf-RUtMGuU_pUsZovnhbfCgQV1rr_WaRAIjIrTfu2Kyqc-hfA3Nx_sOTyXBq9Ixdg8EaJtqqpDTLQjbOvlqc6RwyEUawCjYbow_qFiFEA6NwtPc9Nw109Nx4GD98yobFxd0BDz6KNEw%26sver%3D2%26AdExpPath%3D21-216%3A1188%2C21-146%3A604%2C21-279%3A1666%2C21-78%3A210%2C21-190%3A984%2C21-138%3A555%2C21-157%3A775%2C21-257%3A1695%2C21-81%3A234%2C20-294%3A1781%2C21-76%3A469%2C21-248%3A1429%26ad_ci%3DoqLXu04gtw7eESHLUdOox7oTpvsnd7AAXCFP4BlXl_ascM7CVExIzNe_GjgD9F_aK7AJ69ruD7NF4ttghwDPFklBzfurUaNWd211IbSxf1_6ihjAjNp7sfThDw%26dpid%3D98fb828e-2923-5403-dc18-0b0e144f7db4.1614771104%26rankScore%3D3.431326661106019E-4%26userid%3D1177798507%26page_city_id%3D17%26category_id%3D10%26entityplat%3D1%26ad_v%3D2%26pcvr%3D0.012311394326388836%26adidx%3D3">
+<div class="pic">
+<a data-click-name="shop_img_click" data-midas-extends="module=5_ad_kwimg" data-shopid="H3M33gISLmgpOz7H" href="http://www.dianping.com/shop/H3M33gISLmgpOz7H" onclick="LXAnalytics('moduleClick', 'shoppic')" target="_blank" title="">
+<img alt="马柯美术博物馆咖啡厅" data-src="http://p0.meituan.net/merchant/467438a1bc7dca46d7aebe830ea187521755877.png%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="http://p0.meituan.net/merchant/467438a1bc7dca46d7aebe830ea187521755877.png%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="马柯美术博物馆咖啡厅"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-midas-extends="module=5_ad_kwtitle" data-shopid="H3M33gISLmgpOz7H" href="http://www.dianping.com/shop/H3M33gISLmgpOz7H" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:3,cl_a:4,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','H3M33gISLmgpOz7H');" target="_blank" title="马柯美术博物馆咖啡厅">
+<h4>马柯美术博物馆咖啡厅</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+<a class="igroup" data-click-name="shop_group_icon_click" data-hippo-dealgrp_id="678530516" data-hippo-dealgrp_type="" data-midas-extends="module=5_ad_kwicon1" data-shopid="H3M33gISLmgpOz7H" href="http://t.dianping.com/deal/678530516" rel="nofollow" target="_blank" title="ZIMO子墨咖啡!仅售30元！价值40元的手冲咖啡1份，提供免费WiFi，提供免费停车位。">
+</a>
+</div>
+<a class="search-ad" data-click-name="shop_icon_ad_click" data-midas-extends="module=5_ad_kwtg" data-shopid="H3M33gISLmgpOz7H" href="http://www.dianping.com/business" target="_blank">广告</a>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_35 star_sml"></span>
+<span class="star star_35 star_sml"></span>
+<span class="star star_35 star_sml"></span>
+<span class="star star_35 star_sml"></span>
+<span class="star star_35 star_sml"></span>
+</div>
+<div class="star_score score_35 star_score_sml">3.90</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-midas-extends="module=5_ad_kwreview" data-shopid="H3M33gISLmgpOz7H" href="http://www.dianping.com/shop/H3M33gISLmgpOz7H#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">3</svgmtsi><svgmtsi class="shopNum">5</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-midas-extends="module=5_ad_kwprice" data-shopid="H3M33gISLmgpOz7H" href="http://www.dianping.com/shop/H3M33gISLmgpOz7H" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">7</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-midas-extends="module=5_ad_kwcat" data-shopid="H3M33gISLmgpOz7H" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-midas-extends="module=5_ad_kwregion" data-shopid="H3M33gISLmgpOz7H" href="http://www.dianping.com/xian/ch10/r1764"><span class="tag"><svgmtsi class="tagName"></svgmtsi>寨</span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi>善寺<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>寨派<svgmtsi class="address">江</svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>领绣<svgmtsi class="address"></svgmtsi>负<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi></span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H3M33gISLmgpOz7H" href="http://www.dianping.com/shop/H3M33gISLmgpOz7H/dish416803090" target="_blank">拿铁</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H3M33gISLmgpOz7H" href="http://www.dianping.com/shop/H3M33gISLmgpOz7H/dish417568286" target="_blank">焦糖玛奇朵</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H3M33gISLmgpOz7H" href="http://www.dianping.com/shop/H3M33gISLmgpOz7H/dish356450877" target="_blank">金枪鱼紫菜包饭</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">3</svgmtsi>.<svgmtsi class="shopNum">7</svgmtsi><svgmtsi class="shopNum">7</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">3</svgmtsi>.<svgmtsi class="shopNum">9</svgmtsi><svgmtsi class="shopNum">7</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">3</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">8</svgmtsi></b></span>
+</span>
+</div>
+<div class="svr-info">
+<div class="si-deal d-packup" deal-type="DEAL_GROUP">
+<a class="more J_more" data-click-name="shop_groupdeal_more_click" href="javascript:void(0);" title="">更多6单团购<i class="icon-arr-extend"></i></a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/678530516" target="_blank" title="团购：ZIMO子墨咖啡!仅售30元！价值40元的手冲咖啡1份，提供免费WiFi，提供免费停车位。">
+<span class="tit">团购：</span>ZIMO子墨咖啡!仅售30元！价值40元的手冲咖啡1份，提供免费WiFi，提供免费停车位。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/679486647" target="_blank" title="团购：马柯美术博物馆咖啡厅!仅售9.9元！价值38元的咖啡5选1，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>马柯美术博物馆咖啡厅!仅售9.9元！价值38元的咖啡5选1，建议单人使用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/684028150" target="_blank" title="团购：马柯美术博物馆咖啡厅!仅售17.8元！价值30元的果茶5选1，建议单人使用，可免费使用包间，提供免费WiFi。">
+<span class="tit">团购：</span>马柯美术博物馆咖啡厅!仅售17.8元！价值30元的果茶5选1，建议单人使用，可免费使用包间，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/684038586" target="_blank" title="团购：马柯美术博物馆咖啡厅!仅售38元！价值78元的花泡茶5选1，建议2人使用，可免费使用包间，提供免费WiFi。">
+<span class="tit">团购：</span>马柯美术博物馆咖啡厅!仅售38元！价值78元的花泡茶5选1，建议2人使用，可免费使用包间，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/645949081" target="_blank" title="团购：ZIMO子墨咖啡!仅售38.8元！最高价值77元的27款饮品任选+蛋糕，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>ZIMO子墨咖啡!仅售38.8元！最高价值77元的27款饮品任选+蛋糕，建议单人使用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/684039511" target="_blank" title="团购：马柯美术博物馆咖啡厅!仅售21.8元！价值38元的气泡水4选1，建议单人使用，可免费使用包间，提供免费WiFi。">
+<span class="tit">团购：</span>马柯美术博物馆咖啡厅!仅售21.8元！价值38元的气泡水4选1，建议单人使用，可免费使用包间，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/679484961" target="_blank" title="团购：马柯美术博物馆咖啡厅!仅售15元！价值30元的代金券1张，全场通用，可叠加使用，提供免费WiFi。">
+<span class="tit">团购：</span>马柯美术博物馆咖啡厅!仅售15元！价值30元的代金券1张，全场通用，可叠加使用，提供免费WiFi。
+            </a>
+</div>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="H3M33gISLmgpOz7H" data-midas-extends="module=5_ad_kwfloat2" data-name="马柯美术博物馆咖啡厅" data-shopid="H3M33gISLmgpOz7H" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="兴善寺西街小寨派出所旁领绣城负一楼" data-click-name="shop_map_click" data-midas-extends="module=5_ad_kwfloat3" data-poi="HCADWGZURHFWUY" data-shopid="H3M33gISLmgpOz7H" data-sname="马柯美术博物馆咖啡厅" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-midas-extends="module=5_ad_kwfloat4" data-shopid="H3M33gISLmgpOz7H" data-sname="马柯美术博物馆咖啡厅" data-url="/search/around/17/0_H3M33gISLmgpOz7H{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="laAscBpfxic3UD3W" href="http://www.dianping.com/shop/laAscBpfxic3UD3W" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="MAANUP COFFEE" data-src="https://img.meituan.net/msmerchant/430a330f3e59e7775f6e6531600554af180844.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="https://img.meituan.net/msmerchant/430a330f3e59e7775f6e6531600554af180844.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="MAANUP COFFEE"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="laAscBpfxic3UD3W" href="http://www.dianping.com/shop/laAscBpfxic3UD3W" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:4,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','laAscBpfxic3UD3W');" target="_blank" title="MAANUP COFFEE">
+<h4>MAANUP COFFEE</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+</div>
+<div class="star_score score_45 star_score_sml">4.54</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="laAscBpfxic3UD3W" href="http://www.dianping.com/shop/laAscBpfxic3UD3W#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b>1<svgmtsi class="shopNum">0</svgmtsi><svgmtsi class="shopNum">3</svgmtsi><svgmtsi class="shopNum">3</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="laAscBpfxic3UD3W" href="http://www.dianping.com/shop/laAscBpfxic3UD3W" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">2</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="laAscBpfxic3UD3W" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="laAscBpfxic3UD3W" href="http://www.dianping.com/xian/ch10/r7988"><span class="tag"><svgmtsi class="tagName"></svgmtsi>雁<svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr">慈恩<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>悦<svgmtsi class="address"></svgmtsi>L4-08<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi></span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="laAscBpfxic3UD3W" href="http://www.dianping.com/shop/laAscBpfxic3UD3W/dish218488675" target="_blank">咖啡拿铁</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="laAscBpfxic3UD3W" href="http://www.dianping.com/shop/laAscBpfxic3UD3W/dish230969613" target="_blank">桂花拿铁</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="laAscBpfxic3UD3W" href="http://www.dianping.com/shop/laAscBpfxic3UD3W/dish220839304" target="_blank">胡萝卜澳橙汁</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">5</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi>1</b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">3</svgmtsi></b></span>
+</span>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="laAscBpfxic3UD3W" data-name="MAANUP COFFEE" data-shopid="laAscBpfxic3UD3W" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="慈恩西路大悦城L4-08号商铺" data-click-name="shop_map_click" data-poi="HCAUUJZURHJCCC" data-shopid="laAscBpfxic3UD3W" data-sname="MAANUP COFFEE" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="laAscBpfxic3UD3W" data-sname="MAANUP COFFEE" data-url="/search/around/17/0_laAscBpfxic3UD3W{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="G1ql2rjjBeUnDNKd" href="http://www.dianping.com/shop/G1ql2rjjBeUnDNKd" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="GOATLINGCOFFEE小山羊咖啡" data-src="http://qcloud.dpfile.com/pc/gl1a6ORMmFUjhjco7onwqkDgB1kRhzaE4XStsuXCuY55A1dtNM723PBv4iYRCNuIbKcq9vnEaGy3xLEf-_v_oA.jpg" src="http://qcloud.dpfile.com/pc/gl1a6ORMmFUjhjco7onwqkDgB1kRhzaE4XStsuXCuY55A1dtNM723PBv4iYRCNuIbKcq9vnEaGy3xLEf-_v_oA.jpg" title="GOATLINGCOFFEE小山羊咖啡"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="G1ql2rjjBeUnDNKd" href="http://www.dianping.com/shop/G1ql2rjjBeUnDNKd" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:5,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','G1ql2rjjBeUnDNKd');" target="_blank" title="GOATLINGCOFFEE小山羊咖啡">
+<h4>GOATLINGCOFFEE小山羊咖啡</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+</div>
+<div class="star_score score_50 star_score_sml">4.85</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="G1ql2rjjBeUnDNKd" href="http://www.dianping.com/shop/G1ql2rjjBeUnDNKd#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b>1<svgmtsi class="shopNum">0</svgmtsi><svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">8</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="G1ql2rjjBeUnDNKd" href="http://www.dianping.com/shop/G1ql2rjjBeUnDNKd" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">8</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="G1ql2rjjBeUnDNKd" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="G1ql2rjjBeUnDNKd" href="http://www.dianping.com/xian/ch10/r1757"><span class="tag"><svgmtsi class="tagName"></svgmtsi>雁<svgmtsi class="tagName"></svgmtsi>/<svgmtsi class="tagName"></svgmtsi>稍<svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>21<svgmtsi class="address"></svgmtsi>（<svgmtsi class="address">锅</svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address">名</svgmtsi><svgmtsi class="address">名</svgmtsi>隔壁）</span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="G1ql2rjjBeUnDNKd" href="http://www.dianping.com/shop/G1ql2rjjBeUnDNKd/dish260379951" target="_blank">桂花酒酿</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="G1ql2rjjBeUnDNKd" href="http://www.dianping.com/shop/G1ql2rjjBeUnDNKd/dish253158603" target="_blank">咸柠美式</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="G1ql2rjjBeUnDNKd" href="http://www.dianping.com/shop/G1ql2rjjBeUnDNKd/dish242299411" target="_blank">Dirty</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">5</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">6</svgmtsi><svgmtsi class="shopNum">9</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">8</svgmtsi></b></span>
+</span>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="G1ql2rjjBeUnDNKd" data-name="GOATLINGCOFFEE小山羊咖啡" data-shopid="G1ql2rjjBeUnDNKd" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="体育馆东路21号（成都屋头串串隔壁）" data-click-name="shop_map_click" data-poi="HBWUUJZURHWWII" data-shopid="G1ql2rjjBeUnDNKd" data-sname="GOATLINGCOFFEE小山羊咖啡" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="G1ql2rjjBeUnDNKd" data-sname="GOATLINGCOFFEE小山羊咖啡" data-url="/search/around/17/0_G1ql2rjjBeUnDNKd{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="FAZvqbq6HX7J9Ae7" href="http://www.dianping.com/shop/FAZvqbq6HX7J9Ae7" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="DirtyMind Coffee" data-src="http://p1.meituan.net/merchant/bfc8f7e53cd57ba2d0bddcdc9842c7f43535527.png%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="http://p1.meituan.net/merchant/bfc8f7e53cd57ba2d0bddcdc9842c7f43535527.png%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="DirtyMind Coffee"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="FAZvqbq6HX7J9Ae7" href="http://www.dianping.com/shop/FAZvqbq6HX7J9Ae7" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:6,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','FAZvqbq6HX7J9Ae7');" target="_blank" title="DirtyMind Coffee">
+<h4>DirtyMind Coffee</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+<span class="star star_50 star_sml"></span>
+</div>
+<div class="star_score score_50 star_score_sml">4.86</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="FAZvqbq6HX7J9Ae7" href="http://www.dianping.com/shop/FAZvqbq6HX7J9Ae7#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">7</svgmtsi><svgmtsi class="shopNum">9</svgmtsi>1</b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="FAZvqbq6HX7J9Ae7" href="http://www.dianping.com/shop/FAZvqbq6HX7J9Ae7" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">3</svgmtsi><svgmtsi class="shopNum">5</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="FAZvqbq6HX7J9Ae7" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="FAZvqbq6HX7J9Ae7" href="http://www.dianping.com/xian/ch10/r1764"><span class="tag"><svgmtsi class="tagName"></svgmtsi>寨</span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>25<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>属<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address">大</svgmtsi></span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="FAZvqbq6HX7J9Ae7" href="http://www.dianping.com/shop/FAZvqbq6HX7J9Ae7/dish182648549" target="_blank">澳白</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="FAZvqbq6HX7J9Ae7" href="http://www.dianping.com/shop/FAZvqbq6HX7J9Ae7/dish325981049" target="_blank">牛奶咖啡</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="FAZvqbq6HX7J9Ae7" href="http://www.dianping.com/shop/FAZvqbq6HX7J9Ae7/dish271539082" target="_blank">拼配Dirty</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi>1</b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">6</svgmtsi></b></span>
+</span>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="FAZvqbq6HX7J9Ae7" data-name="DirtyMind Coffee" data-shopid="FAZvqbq6HX7J9Ae7" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="南二环西段25号西旅家属院南门" data-click-name="shop_map_click" data-poi="HBWVRTZURHEWWA" data-shopid="FAZvqbq6HX7J9Ae7" data-sname="DirtyMind Coffee" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="FAZvqbq6HX7J9Ae7" data-sname="DirtyMind Coffee" data-url="/search/around/17/0_FAZvqbq6HX7J9Ae7{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="H8OjMvfXXZQSWQkb" href="http://www.dianping.com/shop/H8OjMvfXXZQSWQkb" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="星巴克臻选(钟楼店)" data-src="http://p1.meituan.net/biztone/1c9f1c2764e157fc958d7ae5d1303e62154077.png%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="http://p1.meituan.net/biztone/1c9f1c2764e157fc958d7ae5d1303e62154077.png%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="星巴克臻选(钟楼店)"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="H8OjMvfXXZQSWQkb" href="http://www.dianping.com/shop/H8OjMvfXXZQSWQkb" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:7,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','H8OjMvfXXZQSWQkb');" target="_blank" title="星巴克臻选(钟楼店)">
+<h4>星巴克臻选(钟楼店)</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+</div>
+<a class="shop-branch" data-click-name="shop_branch_click" data-shopid="H8OjMvfXXZQSWQkb" href="http://www.dianping.com/brands/bH8OjMvfXXZQSWQkb" link="" media="only screen and (max-width: 640px)" module="list-branch" onclick="LXAnalytics('moduleClick', 'shopbranch')" rel="alternate" target="_blank">
+          分店
+          </a>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_40 star_sml"></span>
+<span class="star star_40 star_sml"></span>
+<span class="star star_40 star_sml"></span>
+<span class="star star_40 star_sml"></span>
+<span class="star star_40 star_sml"></span>
+</div>
+<div class="star_score score_40 star_score_sml">4.37</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="H8OjMvfXXZQSWQkb" href="http://www.dianping.com/shop/H8OjMvfXXZQSWQkb#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">4</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="H8OjMvfXXZQSWQkb" href="http://www.dianping.com/shop/H8OjMvfXXZQSWQkb" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">4</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="H8OjMvfXXZQSWQkb" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="H8OjMvfXXZQSWQkb" href="http://www.dianping.com/xian/ch10/r1754"><span class="tag">钟<svgmtsi class="tagName"></svgmtsi>/鼓<svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>1<svgmtsi class="address"></svgmtsi>钟鼓<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi></span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H8OjMvfXXZQSWQkb" href="http://www.dianping.com/shop/H8OjMvfXXZQSWQkb/dish84432097" target="_blank">冰萃咖啡</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H8OjMvfXXZQSWQkb" href="http://www.dianping.com/shop/H8OjMvfXXZQSWQkb/dish15517734" target="_blank">香草星冰乐</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H8OjMvfXXZQSWQkb" href="http://www.dianping.com/shop/H8OjMvfXXZQSWQkb/dish925680" target="_blank">摩卡</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">3</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">8</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">0</svgmtsi><svgmtsi class="shopNum">3</svgmtsi></b></span>
+</span>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="H8OjMvfXXZQSWQkb" data-name="星巴克臻选(钟楼店)" data-shopid="H8OjMvfXXZQSWQkb" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="西大街1号钟鼓楼广场" data-click-name="shop_map_click" data-poi="HBWGIDZURIDWFB" data-shopid="H8OjMvfXXZQSWQkb" data-sname="星巴克臻选" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="H8OjMvfXXZQSWQkb" data-sname="星巴克臻选" data-url="/search/around/17/0_H8OjMvfXXZQSWQkb{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="" data-midas="productid%3D74%26pctr%3D0.07611128243973396%26ad_cj%3DdvJRnEDHaHUmF2pl8knY8ty-RBChJNVZOS-d-yLlnbGZSEjcgKslpwCWIt8r_1jrwprvtQYXA8fHYGHDacQo4lvpwbFu-Hbf_dVkHLNTvr9vtsWq21bAVCoWmRd6_e8QtmTQwkkaJ6Sz0jx3LdXsc8RV3Y2dmD5XryU9QjhylWDqrFqb7oZGcxFDBc4uUA0C9OYt-L_Wm4ee%26sver%3D2%26AdExpPath%3D21-216%3A1188%2C21-146%3A604%2C21-279%3A1666%2C21-78%3A210%2C21-190%3A984%2C21-138%3A555%2C21-157%3A775%2C21-257%3A1695%2C21-81%3A234%2C20-294%3A1781%2C21-76%3A469%2C21-248%3A1429%26ad_ci%3DdvJRkEaTPn8gDGtxoxWa9s-lQBDoSIwbYXDfomGuw-GSXwyJx8l__l2cIM94pBumlMWx4U5ZXJiVODqRbd818x-ogvwtt3Tes40lX8pZs8EMw8iujlLNXHwW3Q%26dpid%3D98fb828e-2923-5403-dc18-0b0e144f7db4.1614771104%26rankScore%3D2.634391905101463E-4%26userid%3D1177798507%26page_city_id%3D17%26category_id%3D10%26entityplat%3D1%26ad_v%3D2%26pcvr%3D0.007815505377948284%26adidx%3D8">
+<div class="pic">
+<a data-click-name="shop_img_click" data-midas-extends="module=5_ad_kwimg" data-shopid="ladKXlI41bWv3RzV" href="http://www.dianping.com/shop/ladKXlI41bWv3RzV" onclick="LXAnalytics('moduleClick', 'shoppic')" target="_blank" title="">
+<img alt="若嫣设计生活馆·咖啡" data-src="http://p0.meituan.net/biztone/1606634873_1610700765613.jpeg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="http://p0.meituan.net/biztone/1606634873_1610700765613.jpeg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="若嫣设计生活馆·咖啡"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-midas-extends="module=5_ad_kwtitle" data-shopid="ladKXlI41bWv3RzV" href="http://www.dianping.com/shop/ladKXlI41bWv3RzV" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:8,cl_a:4,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','ladKXlI41bWv3RzV');" target="_blank" title="若嫣设计生活馆·咖啡">
+<h4>若嫣设计生活馆·咖啡</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+<a class="igroup" data-click-name="shop_group_icon_click" data-hippo-dealgrp_id="675469571" data-hippo-dealgrp_type="" data-midas-extends="module=5_ad_kwicon1" data-shopid="ladKXlI41bWv3RzV" href="http://t.dianping.com/deal/675469571" rel="nofollow" target="_blank" title="若嫣设计生活馆·咖啡!仅售59元！价值70元的单人主食套餐，提供免费WiFi。">
+</a>
+</div>
+<a class="search-ad" data-click-name="shop_icon_ad_click" data-midas-extends="module=5_ad_kwtg" data-shopid="ladKXlI41bWv3RzV" href="http://www.dianping.com/business" target="_blank">广告</a>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+</div>
+<div class="star_score score_45 star_score_sml">4.67</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-midas-extends="module=5_ad_kwreview" data-shopid="ladKXlI41bWv3RzV" href="http://www.dianping.com/shop/ladKXlI41bWv3RzV#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-midas-extends="module=5_ad_kwprice" data-shopid="ladKXlI41bWv3RzV" href="http://www.dianping.com/shop/ladKXlI41bWv3RzV" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">3</svgmtsi><svgmtsi class="shopNum">7</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-midas-extends="module=5_ad_kwcat" data-shopid="ladKXlI41bWv3RzV" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-midas-extends="module=5_ad_kwregion" data-shopid="ladKXlI41bWv3RzV" href="http://www.dianping.com/xian/ch10/r1764"><span class="tag"><svgmtsi class="tagName"></svgmtsi>寨</span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>辅<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>60<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi></span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="ladKXlI41bWv3RzV" href="http://www.dianping.com/shop/ladKXlI41bWv3RzV/dish251322689" target="_blank">美式咖啡</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="ladKXlI41bWv3RzV" href="http://www.dianping.com/shop/ladKXlI41bWv3RzV/dish251324204" target="_blank">拿铁咖啡</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="ladKXlI41bWv3RzV" href="http://www.dianping.com/shop/ladKXlI41bWv3RzV/dish253625556" target="_blank">气泡水</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">6</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">6</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b></span>
+</span>
+</div>
+<div class="svr-info">
+<div class="si-deal d-packup" deal-type="DEAL_GROUP">
+<a class="more J_more" data-click-name="shop_groupdeal_more_click" href="javascript:void(0);" title="">更多3单团购<i class="icon-arr-extend"></i></a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/675469571" target="_blank" title="团购：若嫣设计生活馆·咖啡!仅售59元！价值70元的单人主食套餐，提供免费WiFi。">
+<span class="tit">团购：</span>若嫣设计生活馆·咖啡!仅售59元！价值70元的单人主食套餐，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/675459374" target="_blank" title="团购：若嫣设计生活馆·咖啡!仅售21元！价值35元的红丝绒拿铁1份，提供免费WiFi。">
+<span class="tit">团购：</span>若嫣设计生活馆·咖啡!仅售21元！价值35元的红丝绒拿铁1份，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/675457433" target="_blank" title="团购：若嫣设计生活馆·咖啡!仅售88元！价值103元的双人甜品套餐，提供免费WiFi。">
+<span class="tit">团购：</span>若嫣设计生活馆·咖啡!仅售88元！价值103元的双人甜品套餐，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/676986991" target="_blank" title="团购：若嫣设计生活馆·咖啡!仅售39元！价值70元的玫瑰花束1份，可免费使用包间，提供免费WiFi。">
+<span class="tit">团购：</span>若嫣设计生活馆·咖啡!仅售39元！价值70元的玫瑰花束1份，可免费使用包间，提供免费WiFi。
+            </a>
+</div>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="ladKXlI41bWv3RzV" data-midas-extends="module=5_ad_kwfloat2" data-name="若嫣设计生活馆·咖啡" data-shopid="ladKXlI41bWv3RzV" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="二环南路西段辅路与长安北路交叉口西行60米路南" data-click-name="shop_map_click" data-midas-extends="module=5_ad_kwfloat3" data-poi="HCACIJZURHHTFN" data-shopid="ladKXlI41bWv3RzV" data-sname="若嫣设计生活馆·咖啡" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-midas-extends="module=5_ad_kwfloat4" data-shopid="ladKXlI41bWv3RzV" data-sname="若嫣设计生活馆·咖啡" data-url="/search/around/17/0_ladKXlI41bWv3RzV{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="G7xIzrj0HPjGiqD5" href="http://www.dianping.com/shop/G7xIzrj0HPjGiqD5" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="喵星人的猫咖啡" data-src="http://p0.meituan.net/apiback/a377f2f0063a1e4cd907c8ea224e1d3430503.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="http://p0.meituan.net/apiback/a377f2f0063a1e4cd907c8ea224e1d3430503.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="喵星人的猫咖啡"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="G7xIzrj0HPjGiqD5" href="http://www.dianping.com/shop/G7xIzrj0HPjGiqD5" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:9,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','G7xIzrj0HPjGiqD5');" target="_blank" title="喵星人的猫咖啡">
+<h4>喵星人的猫咖啡</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+<a class="igroup" data-click-name="shop_group_icon_click" data-hippo-dealgrp_id="18071495" data-hippo-dealgrp_type="" data-shopid="G7xIzrj0HPjGiqD5" href="http://t.dianping.com/deal/18071495" rel="nofollow" target="_blank" title="喵星人的猫咖啡!仅售39.8元！最高价值62元的咖啡蛋糕单人餐，提供免费WiFi。">
+</a>
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+</div>
+<div class="star_score score_45 star_score_sml">4.56</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="G7xIzrj0HPjGiqD5" href="http://www.dianping.com/shop/G7xIzrj0HPjGiqD5#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">3</svgmtsi><svgmtsi class="shopNum">0</svgmtsi><svgmtsi class="shopNum">5</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="G7xIzrj0HPjGiqD5" href="http://www.dianping.com/shop/G7xIzrj0HPjGiqD5" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">4</svgmtsi><svgmtsi class="shopNum">9</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="G7xIzrj0HPjGiqD5" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="G7xIzrj0HPjGiqD5" href="http://www.dianping.com/xian/ch10/r1997"><span class="tag"><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>怡<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>5F</span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="G7xIzrj0HPjGiqD5" href="http://www.dianping.com/shop/G7xIzrj0HPjGiqD5/dish15527257" target="_blank">提拉米苏</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="G7xIzrj0HPjGiqD5" href="http://www.dianping.com/shop/G7xIzrj0HPjGiqD5/dish8730866" target="_blank">意大利面</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="G7xIzrj0HPjGiqD5" href="http://www.dianping.com/shop/G7xIzrj0HPjGiqD5/dish15527296" target="_blank">原味拿铁</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">4</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">9</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">9</svgmtsi></b></span>
+</span>
+</div>
+<div class="svr-info">
+<div class="si-deal d-packup" deal-type="DEAL_GROUP">
+<a class="more J_more" data-click-name="shop_groupdeal_more_click" href="javascript:void(0);" title="">更多1单团购<i class="icon-arr-extend"></i></a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/18071495" target="_blank" title="团购：喵星人的猫咖啡!仅售39.8元！最高价值62元的咖啡蛋糕单人餐，提供免费WiFi。">
+<span class="tit">团购：</span>喵星人的猫咖啡!仅售39.8元！最高价值62元的咖啡蛋糕单人餐，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/18978883" target="_blank" title="团购：喵星人的猫咖啡!仅售28.8元！价值36元的饮品8选1，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>喵星人的猫咖啡!仅售28.8元！价值36元的饮品8选1，建议单人使用，提供免费WiFi。
+            </a>
+</div>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="G7xIzrj0HPjGiqD5" data-name="喵星人的猫咖啡" data-shopid="G7xIzrj0HPjGiqD5" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="电子正街怡兴大厦5F" data-click-name="shop_map_click" data-poi="HCACTUZURGDCAS" data-shopid="G7xIzrj0HPjGiqD5" data-sname="喵星人的猫咖啡" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="G7xIzrj0HPjGiqD5" data-sname="喵星人的猫咖啡" data-url="/search/around/17/0_G7xIzrj0HPjGiqD5{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="H49w8TuH63yhzDHk" href="http://www.dianping.com/shop/H49w8TuH63yhzDHk" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="1Moretime女仆猫咖·狗咖" data-src="https://img.meituan.net/msmerchant/262913db771adbc911bf273b1f60118e393690.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="https://img.meituan.net/msmerchant/262913db771adbc911bf273b1f60118e393690.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="1Moretime女仆猫咖·狗咖"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="H49w8TuH63yhzDHk" href="http://www.dianping.com/shop/H49w8TuH63yhzDHk" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:10,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','H49w8TuH63yhzDHk');" target="_blank" title="1Moretime女仆猫咖·狗咖">
+<h4>1Moretime女仆猫咖·狗咖</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+<a class="igroup" data-click-name="shop_group_icon_click" data-hippo-dealgrp_id="667136692" data-hippo-dealgrp_type="" data-shopid="H49w8TuH63yhzDHk" href="http://t.dianping.com/deal/667136692" rel="nofollow" target="_blank" title="仅售69元，价值118元双人撸猫撸狗套餐">
+</a>
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+</div>
+<div class="star_score score_45 star_score_sml">4.76</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="H49w8TuH63yhzDHk" href="http://www.dianping.com/shop/H49w8TuH63yhzDHk#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">9</svgmtsi>1</b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="H49w8TuH63yhzDHk" href="http://www.dianping.com/shop/H49w8TuH63yhzDHk" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">3</svgmtsi><svgmtsi class="shopNum">2</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="H49w8TuH63yhzDHk" href="http://www.dianping.com/xian/ch95/g25147"><span class="tag">宠<svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="H49w8TuH63yhzDHk" href="http://www.dianping.com/xian/ch10/r30844"><span class="tag">赛<svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr">未<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>赛<svgmtsi class="address">丽</svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>3<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>2<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>12<svgmtsi class="address"></svgmtsi>1212户（速8<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>梯<svgmtsi class="address"></svgmtsi>5<svgmtsi class="address"></svgmtsi>寻<svgmtsi class="address"></svgmtsi>2<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>）</span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H49w8TuH63yhzDHk" href="http://www.dianping.com/shop/H49w8TuH63yhzDHk/dish148348582" target="_blank">华夫饼</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H49w8TuH63yhzDHk" href="http://www.dianping.com/shop/H49w8TuH63yhzDHk/dish148848942" target="_blank">抹茶拿铁</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H49w8TuH63yhzDHk" href="http://www.dianping.com/shop/H49w8TuH63yhzDHk/dish139359186" target="_blank">蓝莓气泡水</a>
+</div>
+<span class="comment-list">
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">6</svgmtsi><svgmtsi class="shopNum">7</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">6</svgmtsi><svgmtsi class="shopNum">8</svgmtsi></b></span>
+<span>划算<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">6</svgmtsi><svgmtsi class="shopNum">2</svgmtsi></b></span>
+</span>
+</div>
+<div class="svr-info">
+<div class="si-deal d-packup" deal-type="DEAL_GROUP">
+<a class="more J_more" data-click-name="shop_groupdeal_more_click" href="javascript:void(0);" title="">更多3单团购<i class="icon-arr-extend"></i></a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/667136692" target="_blank" title="团购：仅售69元，价值118元双人撸猫撸狗套餐">
+<span class="tit">团购：</span>仅售69元，价值118元双人撸猫撸狗套餐
+            </a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/667120800" target="_blank" title="团购：仅售36.9元，价值59元单人撸猫撸狗套餐">
+<span class="tit">团购：</span>仅售36.9元，价值59元单人撸猫撸狗套餐
+            </a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/667787449" target="_blank" title="团购：仅售98.6元，价值120元三人撸猫套餐">
+<span class="tit">团购：</span>仅售98.6元，价值120元三人撸猫套餐
+            </a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/667809756" target="_blank" title="团购：仅售136元，价值160元四人撸猫撸狗桌游套餐">
+<span class="tit">团购：</span>仅售136元，价值160元四人撸猫撸狗桌游套餐
+            </a>
+</div>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="H49w8TuH63yhzDHk" data-name="1Moretime女仆猫咖·狗咖" data-shopid="H49w8TuH63yhzDHk" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="未央路赛高街区3号楼2单元12楼1212户（速8酒店电梯上5楼寻找2单元）" data-click-name="shop_map_click" data-poi="HBUTCHZURJVJJF" data-shopid="H49w8TuH63yhzDHk" data-sname="1Moretime女仆猫咖·狗咖" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="H49w8TuH63yhzDHk" data-sname="1Moretime女仆猫咖·狗咖" data-url="/search/around/17/0_H49w8TuH63yhzDHk{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="iVr7GI0ujY2uTjtG" href="http://www.dianping.com/shop/iVr7GI0ujY2uTjtG" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="漫咖啡(南门店)" data-src="http://qcloud.dpfile.com/pc/0O7nReJgTQaApnQVtJbaRhd5TUUgs74BVFVFZeBPdGKx-vxa7-jRdMqvX-dxFsWzbKcq9vnEaGy3xLEf-_v_oA.jpg" src="http://qcloud.dpfile.com/pc/0O7nReJgTQaApnQVtJbaRhd5TUUgs74BVFVFZeBPdGKx-vxa7-jRdMqvX-dxFsWzbKcq9vnEaGy3xLEf-_v_oA.jpg" title="漫咖啡(南门店)"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="iVr7GI0ujY2uTjtG" href="http://www.dianping.com/shop/iVr7GI0ujY2uTjtG" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:11,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','iVr7GI0ujY2uTjtG');" target="_blank" title="漫咖啡(南门店)">
+<h4>漫咖啡(南门店)</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_40 star_sml"></span>
+<span class="star star_40 star_sml"></span>
+<span class="star star_40 star_sml"></span>
+<span class="star star_40 star_sml"></span>
+<span class="star star_40 star_sml"></span>
+</div>
+<div class="star_score score_40 star_score_sml">4.30</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="iVr7GI0ujY2uTjtG" href="http://www.dianping.com/shop/iVr7GI0ujY2uTjtG#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b>1<svgmtsi class="shopNum">4</svgmtsi><svgmtsi class="shopNum">0</svgmtsi><svgmtsi class="shopNum">9</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="iVr7GI0ujY2uTjtG" href="http://www.dianping.com/shop/iVr7GI0ujY2uTjtG" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">3</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="iVr7GI0ujY2uTjtG" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="iVr7GI0ujY2uTjtG" href="http://www.dianping.com/xian/ch10/r23855"><span class="tag"><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>榴<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>01<svgmtsi class="address"></svgmtsi>、02<svgmtsi class="address"></svgmtsi></span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="iVr7GI0ujY2uTjtG" href="http://www.dianping.com/shop/iVr7GI0ujY2uTjtG/dish5511429" target="_blank">水果冰激淋松饼</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="iVr7GI0ujY2uTjtG" href="http://www.dianping.com/shop/iVr7GI0ujY2uTjtG/dish5692489" target="_blank">原味松饼</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="iVr7GI0ujY2uTjtG" href="http://www.dianping.com/shop/iVr7GI0ujY2uTjtG/dish5619552" target="_blank">咖啡拿铁</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">3</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.1<svgmtsi class="shopNum">3</svgmtsi></b></span>
+</span>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="iVr7GI0ujY2uTjtG" data-name="漫咖啡(南门店)" data-shopid="iVr7GI0ujY2uTjtG" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="环城南路东段榴园一层01号、02号" data-click-name="shop_map_click" data-poi="HBWSGIZURIBRUE" data-shopid="iVr7GI0ujY2uTjtG" data-sname="漫咖啡" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="iVr7GI0ujY2uTjtG" data-sname="漫咖啡" data-url="/search/around/17/0_iVr7GI0ujY2uTjtG{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="l152HBe6bCH8jjU6" href="http://www.dianping.com/shop/l152HBe6bCH8jjU6" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="Seewood coffee见木咖啡(中铁西安中心店)" data-src="http://p0.meituan.net/bbia/2a736cf7bd03c6818ff1c01d5c035c2985356.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="http://p0.meituan.net/bbia/2a736cf7bd03c6818ff1c01d5c035c2985356.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="Seewood coffee见木咖啡(中铁西安中心店)"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="l152HBe6bCH8jjU6" href="http://www.dianping.com/shop/l152HBe6bCH8jjU6" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:12,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','l152HBe6bCH8jjU6');" target="_blank" title="Seewood coffee见木咖啡(中铁西安中心店)">
+<h4>Seewood coffee见木咖啡(中铁西安中心店)</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+<a class="igroup" data-click-name="shop_group_icon_click" data-hippo-dealgrp_id="667572240" data-hippo-dealgrp_type="" data-shopid="l152HBe6bCH8jjU6" href="http://t.dianping.com/deal/667572240" rel="nofollow" target="_blank" title="Seewood coffee见木咖啡!仅售55元！最高价值66元的新品体验套餐，建议单人使用，可免费使用包间，提供免费WiFi。">
+</a>
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+</div>
+<div class="star_score score_45 star_score_sml">4.51</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="l152HBe6bCH8jjU6" href="http://www.dianping.com/shop/l152HBe6bCH8jjU6#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">6</svgmtsi><svgmtsi class="shopNum">0</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="l152HBe6bCH8jjU6" href="http://www.dianping.com/shop/l152HBe6bCH8jjU6" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">3</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="l152HBe6bCH8jjU6" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="l152HBe6bCH8jjU6" href="http://www.dianping.com/xian/ch10/r8913"><span class="tag">丈<svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>丈<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>1<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi></span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="l152HBe6bCH8jjU6" href="http://www.dianping.com/shop/l152HBe6bCH8jjU6/dish356734759" target="_blank">白咖啡</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="l152HBe6bCH8jjU6" href="http://www.dianping.com/shop/l152HBe6bCH8jjU6/dish376976042" target="_blank">冰博克dirty</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="l152HBe6bCH8jjU6" href="http://www.dianping.com/shop/l152HBe6bCH8jjU6/dish363749148" target="_blank">大拿铁</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">5</svgmtsi>1</b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">6</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">8</svgmtsi></b></span>
+</span>
+</div>
+<div class="svr-info">
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/667572240" target="_blank" title="团购：Seewood coffee见木咖啡!仅售55元！最高价值66元的新品体验套餐，建议单人使用，可免费使用包间，提供免费WiFi。">
+<span class="tit">团购：</span>Seewood coffee见木咖啡!仅售55元！最高价值66元的新品体验套餐，建议单人使用，可免费使用包间，提供免费WiFi。
+            </a>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="l152HBe6bCH8jjU6" data-name="Seewood coffee见木咖啡(中铁西安中心店)" data-shopid="l152HBe6bCH8jjU6" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="锦业路与丈八一路交叉口中铁西安中心1楼南侧" data-click-name="shop_map_click" data-poi="HBWIHEZURFBFET" data-shopid="l152HBe6bCH8jjU6" data-sname="Seewood coffee见木咖啡" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="l152HBe6bCH8jjU6" data-sname="Seewood coffee见木咖啡" data-url="/search/around/17/0_l152HBe6bCH8jjU6{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="" data-midas="productid%3D74%26pctr%3D0.04135233771492989%26ad_cj%3Df0VA__zSXNF-8oe6hHzUBZspGTiiEn3LCO0xe9tgnrMwSpK7FX9UJXDlD5hFqruKqAtwb8pUox895qHsPDFrWS9TNJmYNCBzxrQOOC6OlAVTrJ3Jmgb11OzLxRcqTt6X9XJ5UcdKG8Z0pH3ZSkNdUke7g4Iv8t3gQsX8VLQtE_xuRBCXyHau3nAnDUCPGy1amHojbdlzxSA6Qw%26sver%3D2%26zgsid%3D1107793%26AdExpPath%3D21-216%3A1188%2C21-146%3A604%2C21-279%3A1666%2C21-78%3A210%2C21-190%3A984%2C21-138%3A555%2C21-157%3A775%2C21-257%3A1695%2C21-81%3A234%2C20-294%3A1781%2C21-76%3A469%2C21-248%3A1429%26ad_ci%3Df0VA8_qGCtR55Ya8kS2bFYopFz6zcCCcE7lnOIYi0-5tUdHtVR8KeSXoDJ9S_OPH5VYlOIlJ8kN5_fGkJTd7RWYbYozXbGV3n_dIZHiylCI83pPPllX9hbjPxQ%26dpid%3D98fb828e-2923-5403-dc18-0b0e144f7db4.1614771104%26rankScore%3D1.5560322434993352E-4%26userid%3D1177798507%26page_city_id%3D17%26category_id%3D10%26entityplat%3D1%26ad_v%3D2%26pcvr%3D0.004073327407240868%26adidx%3D13">
+<div class="pic">
+<a data-click-name="shop_img_click" data-midas-extends="module=5_ad_kwimg" data-shopid="k8a58A5FBBx9LSyr" href="http://www.dianping.com/shop/k8a58A5FBBx9LSyr" onclick="LXAnalytics('moduleClick', 'shoppic')" target="_blank" title="">
+<img alt="茶轻" data-src="https://img.meituan.net/msmerchant/cbacbd9d484392c61afc1d40ce66a1db3720008.png%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="https://img.meituan.net/msmerchant/cbacbd9d484392c61afc1d40ce66a1db3720008.png%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="茶轻"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-midas-extends="module=5_ad_kwtitle" data-shopid="k8a58A5FBBx9LSyr" href="http://www.dianping.com/shop/k8a58A5FBBx9LSyr" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:13,cl_a:4,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','k8a58A5FBBx9LSyr');" target="_blank" title="茶轻">
+<h4>茶轻</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+<a class="igroup" data-click-name="shop_group_icon_click" data-hippo-dealgrp_id="674616478" data-hippo-dealgrp_type="" data-midas-extends="module=5_ad_kwicon1" data-shopid="k8a58A5FBBx9LSyr" href="http://t.dianping.com/deal/674616478" rel="nofollow" target="_blank" title="茶轻!仅售15元！价值19元的慕斯和冬天更配哦3选1，建议单人使用，提供免费WiFi。">
+</a>
+</div>
+<a class="search-ad" data-click-name="shop_icon_ad_click" data-midas-extends="module=5_ad_kwtg" data-shopid="k8a58A5FBBx9LSyr" href="http://www.dianping.com/business" target="_blank">广告</a>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_35 star_sml"></span>
+<span class="star star_35 star_sml"></span>
+<span class="star star_35 star_sml"></span>
+<span class="star star_35 star_sml"></span>
+<span class="star star_35 star_sml"></span>
+</div>
+<div class="star_score score_35 star_score_sml">3.79</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-midas-extends="module=5_ad_kwreview" data-shopid="k8a58A5FBBx9LSyr" href="http://www.dianping.com/shop/k8a58A5FBBx9LSyr#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">5</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-midas-extends="module=5_ad_kwprice" data-shopid="k8a58A5FBBx9LSyr" href="http://www.dianping.com/shop/k8a58A5FBBx9LSyr" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+          -
+
+        </a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-midas-extends="module=5_ad_kwcat" data-shopid="k8a58A5FBBx9LSyr" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-midas-extends="module=5_ad_kwregion" data-shopid="k8a58A5FBBx9LSyr" href="http://www.dianping.com/xian/ch10/r7985"><span class="tag"><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>11<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>10117<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi></span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="k8a58A5FBBx9LSyr" href="http://www.dianping.com/shop/k8a58A5FBBx9LSyr/dish411254786" target="_blank">巧克力慕斯</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="k8a58A5FBBx9LSyr" href="http://www.dianping.com/shop/k8a58A5FBBx9LSyr/dish410537297" target="_blank">芒果布丁</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="k8a58A5FBBx9LSyr" href="http://www.dianping.com/shop/k8a58A5FBBx9LSyr/dish411413186" target="_blank">现磨拿铁</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">3</svgmtsi>.<svgmtsi class="shopNum">7</svgmtsi><svgmtsi class="shopNum">3</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">3</svgmtsi>.<svgmtsi class="shopNum">9</svgmtsi><svgmtsi class="shopNum">5</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">3</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi><svgmtsi class="shopNum">8</svgmtsi></b></span>
+</span>
+</div>
+<div class="svr-info">
+<div class="si-deal d-packup" deal-type="DEAL_GROUP">
+<a class="more J_more" data-click-name="shop_groupdeal_more_click" href="javascript:void(0);" title="">更多6单团购<i class="icon-arr-extend"></i></a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/674616478" target="_blank" title="团购：茶轻!仅售15元！价值19元的慕斯和冬天更配哦3选1，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>茶轻!仅售15元！价值19元的慕斯和冬天更配哦3选1，建议单人使用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/675758228" target="_blank" title="团购：茶轻!仅售23元！价值26元的高贵的炸鸡才配的上我，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>茶轻!仅售23元！价值26元的高贵的炸鸡才配的上我，建议单人使用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/674620027" target="_blank" title="团购：茶轻!仅售21元！价值24元的冻顶乌龙奶茶+甜品布丁，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>茶轻!仅售21元！价值24元的冻顶乌龙奶茶+甜品布丁，建议单人使用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/674620096" target="_blank" title="团购：茶轻!仅售15元！价值19元的斩男利器气泡水4选1，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>茶轻!仅售15元！价值19元的斩男利器气泡水4选1，建议单人使用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/674616282" target="_blank" title="团购：茶轻!仅售29元！价值33元的现磨拿铁+甜品布丁，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>茶轻!仅售29元！价值33元的现磨拿铁+甜品布丁，建议单人使用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/677909563" target="_blank" title="团购：茶轻!仅售99元！价值200元的代金券1张，全场通用，提供免费WiFi。">
+<span class="tit">团购：</span>茶轻!仅售99元！价值200元的代金券1张，全场通用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" data-midas-extends="module=5_ad_kwdown1" href="http://t.dianping.com/deal/674585598" target="_blank" title="团购：茶轻!仅售24元！价值27元的美式咖啡+甜品布丁，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>茶轻!仅售24元！价值27元的美式咖啡+甜品布丁，建议单人使用，提供免费WiFi。
+            </a>
+</div>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="k8a58A5FBBx9LSyr" data-midas-extends="module=5_ad_kwfloat2" data-name="茶轻" data-shopid="k8a58A5FBBx9LSyr" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="民乐园步行街11号楼10117商铺" data-click-name="shop_map_click" data-midas-extends="module=5_ad_kwfloat3" data-poi="HBWSIUZURIVJCU" data-shopid="k8a58A5FBBx9LSyr" data-sname="茶轻" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-midas-extends="module=5_ad_kwfloat4" data-shopid="k8a58A5FBBx9LSyr" data-sname="茶轻" data-url="/search/around/17/0_k8a58A5FBBx9LSyr{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="H3ajkuj5QVRvEx2o" href="http://www.dianping.com/shop/H3ajkuj5QVRvEx2o" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="Localand·原岩咖啡" data-src="https://img.meituan.net/msmerchant/1ba345771690fb0155b405a9ebd904c886038.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="https://img.meituan.net/msmerchant/1ba345771690fb0155b405a9ebd904c886038.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="Localand·原岩咖啡"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="H3ajkuj5QVRvEx2o" href="http://www.dianping.com/shop/H3ajkuj5QVRvEx2o" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:14,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','H3ajkuj5QVRvEx2o');" target="_blank" title="Localand·原岩咖啡">
+<h4>Localand·原岩咖啡</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+</div>
+<div class="star_score score_45 star_score_sml">4.51</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="H3ajkuj5QVRvEx2o" href="http://www.dianping.com/shop/H3ajkuj5QVRvEx2o#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">6</svgmtsi><svgmtsi class="shopNum">2</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="H3ajkuj5QVRvEx2o" href="http://www.dianping.com/shop/H3ajkuj5QVRvEx2o" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">4</svgmtsi><svgmtsi class="shopNum">4</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="H3ajkuj5QVRvEx2o" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="H3ajkuj5QVRvEx2o" href="http://www.dianping.com/xian/ch10/r1767"><span class="tag"><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi><svgmtsi class="tagName"></svgmtsi></span></a>
+<span class="addr"><svgmtsi class="address">丽</svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address">丽</svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>荟</span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H3ajkuj5QVRvEx2o" href="http://www.dianping.com/shop/H3ajkuj5QVRvEx2o/dish238665356" target="_blank">拿铁</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H3ajkuj5QVRvEx2o" href="http://www.dianping.com/shop/H3ajkuj5QVRvEx2o/dish231993598" target="_blank">手冲耶迦雪菲</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="H3ajkuj5QVRvEx2o" href="http://www.dianping.com/shop/H3ajkuj5QVRvEx2o/dish231654338" target="_blank">红宝石</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">4</svgmtsi><svgmtsi class="shopNum">9</svgmtsi></b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">6</svgmtsi><svgmtsi class="shopNum">5</svgmtsi></b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">6</svgmtsi>1</b></span>
+</span>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="H3ajkuj5QVRvEx2o" data-name="Localand·原岩咖啡" data-shopid="H3ajkuj5QVRvEx2o" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="高新四路高新大都荟" data-click-name="shop_map_click" data-poi="HBVRTIZURGGVUO" data-shopid="H3ajkuj5QVRvEx2o" data-sname="Localand·原岩咖啡" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="H3ajkuj5QVRvEx2o" data-sname="Localand·原岩咖啡" data-url="/search/around/17/0_H3ajkuj5QVRvEx2o{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>, <li class="">
+<div class="pic">
+<a data-click-name="shop_img_click" data-shopid="izTX2pV3EaKk4n0K" href="http://www.dianping.com/shop/izTX2pV3EaKk4n0K" onclick="LXAnalytics('moduleClick', 'shoppic')" rel="nofollow" target="_blank" title="">
+<img alt="ZIMO子墨咖啡" data-src="http://p1.meituan.net/biztone/411bfe6e56d4b900959218de7bc5424c937067.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" src="http://p1.meituan.net/biztone/411bfe6e56d4b900959218de7bc5424c937067.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0" title="ZIMO子墨咖啡"/>
+</a>
+</div>
+<div class="txt">
+<div class="tit">
+<a data-click-name="shop_title_click" data-hippo-type="shop" data-shopid="izTX2pV3EaKk4n0K" href="http://www.dianping.com/shop/izTX2pV3EaKk4n0K" onclick="LXAnalytics('moduleClick', 'shopname');document.hippo.ext({cl_i:15,query_id:'9afa5366-98e2-41ad-958d-637c8e6bb2cc'}).mv('cl_to_s','izTX2pV3EaKk4n0K');" target="_blank" title="ZIMO子墨咖啡">
+<h4>ZIMO子墨咖啡</h4>
+</a>
+<div class="promo-icon J_promo_icon">
+<a class="igroup" data-click-name="shop_group_icon_click" data-hippo-dealgrp_id="684028150" data-hippo-dealgrp_type="" data-shopid="izTX2pV3EaKk4n0K" href="http://t.dianping.com/deal/684028150" rel="nofollow" target="_blank" title="马柯美术博物馆咖啡厅!仅售17.8元！价值30元的果茶5选1，建议单人使用，可免费使用包间，提供免费WiFi。">
+</a>
+</div>
+</div>
+<div class="comment">
+<div class="nebula_star">
+<div class="star_icon">
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+<span class="star star_45 star_sml"></span>
+</div>
+<div class="star_score score_45 star_score_sml">4.64</div>
+</div>
+<a class="review-num" data-click-name="shop_iwant_review_click" data-shopid="izTX2pV3EaKk4n0K" href="http://www.dianping.com/shop/izTX2pV3EaKk4n0K#comment" module="list-readreview" onclick="LXAnalytics('moduleClick', 'shopreview')" rel="nofollow" target="_blank">
+<b><svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">5</svgmtsi><svgmtsi class="shopNum">5</svgmtsi></b>
+条评价</a>
+<em class="sep">|</em>
+<a class="mean-price" data-click-name="shop_avgprice_click" data-shopid="izTX2pV3EaKk4n0K" href="http://www.dianping.com/shop/izTX2pV3EaKk4n0K" onclick="LXAnalytics('moduleClick', 'shopprice')" rel="nofollow" target="_blank">
+            人均
+            <b>￥<svgmtsi class="shopNum">2</svgmtsi><svgmtsi class="shopNum">9</svgmtsi></b>
+</a>
+</div>
+<div class="tag-addr">
+<a data-click-name="shop_tag_cate_click" data-shopid="izTX2pV3EaKk4n0K" href="http://www.dianping.com/xian/ch10/g132"><span class="tag">咖啡<svgmtsi class="tagName"></svgmtsi></span></a>
+<em class="sep">|</em>
+<a data-click-name="shop_tag_region_click" data-shopid="izTX2pV3EaKk4n0K" href="http://www.dianping.com/xian/ch10/r1764"><span class="tag"><svgmtsi class="tagName"></svgmtsi>寨</span></a>
+<span class="addr"><svgmtsi class="address"></svgmtsi>善寺<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>寨<svgmtsi class="address"></svgmtsi>派<svgmtsi class="address">江</svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>领绣<svgmtsi class="address"></svgmtsi>负<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>（<svgmtsi class="address"></svgmtsi>柯<svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi><svgmtsi class="address"></svgmtsi>）</span>
+</div>
+<div class="recommend">
+<span>推荐菜：</span>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="izTX2pV3EaKk4n0K" href="http://www.dianping.com/shop/izTX2pV3EaKk4n0K/dish346434741" target="_blank">拿铁咖啡</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="izTX2pV3EaKk4n0K" href="http://www.dianping.com/shop/izTX2pV3EaKk4n0K/dish355520209" target="_blank">金枪鱼紫菜包饭</a>
+<a class="recommend-click" data-click-name="shop_tag_dish_click" data-shopid="izTX2pV3EaKk4n0K" href="http://www.dianping.com/shop/izTX2pV3EaKk4n0K/dish346988782" target="_blank">水蜜桃气泡茶</a>
+</div>
+<span class="comment-list">
+<span>口味<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">5</svgmtsi>1</b></span>
+<span>环境<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">8</svgmtsi>1</b></span>
+<span>服务<b><svgmtsi class="shopNum">4</svgmtsi>.<svgmtsi class="shopNum">6</svgmtsi><svgmtsi class="shopNum">9</svgmtsi></b></span>
+</span>
+</div>
+<div class="svr-info">
+<div class="si-deal d-packup" deal-type="DEAL_GROUP">
+<a class="more J_more" data-click-name="shop_groupdeal_more_click" href="javascript:void(0);" title="">更多5单团购<i class="icon-arr-extend"></i></a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/684028150" target="_blank" title="团购：马柯美术博物馆咖啡厅!仅售17.8元！价值30元的果茶5选1，建议单人使用，可免费使用包间，提供免费WiFi。">
+<span class="tit">团购：</span>马柯美术博物馆咖啡厅!仅售17.8元！价值30元的果茶5选1，建议单人使用，可免费使用包间，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/635473460" target="_blank" title="团购：ZIMO子墨咖啡!仅售13.8元！最高价值42元的咖啡24选1，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>ZIMO子墨咖啡!仅售13.8元！最高价值42元的咖啡24选1，建议单人使用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/637538249" target="_blank" title="团购：ZIMO子墨咖啡!仅售21.8元！价值30元的代金券1张，全场通用，可叠加使用，提供免费WiFi。">
+<span class="tit">团购：</span>ZIMO子墨咖啡!仅售21.8元！价值30元的代金券1张，全场通用，可叠加使用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/645949081" target="_blank" title="团购：ZIMO子墨咖啡!仅售38.8元！最高价值77元的27款饮品任选+蛋糕，建议单人使用，提供免费WiFi。">
+<span class="tit">团购：</span>ZIMO子墨咖啡!仅售38.8元！最高价值77元的27款饮品任选+蛋糕，建议单人使用，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/684039511" target="_blank" title="团购：马柯美术博物馆咖啡厅!仅售21.8元！价值38元的气泡水4选1，建议单人使用，可免费使用包间，提供免费WiFi。">
+<span class="tit">团购：</span>马柯美术博物馆咖啡厅!仅售21.8元！价值38元的气泡水4选1，建议单人使用，可免费使用包间，提供免费WiFi。
+            </a>
+<a data-click-name="shop_info_groupdeal_click" href="http://t.dianping.com/deal/678530516" target="_blank" title="团购：ZIMO子墨咖啡!仅售30元！价值40元的手冲咖啡1份，提供免费WiFi，提供免费停车位。">
+<span class="tit">团购：</span>ZIMO子墨咖啡!仅售30元！价值40元的手冲咖啡1份，提供免费WiFi，提供免费停车位。
+            </a>
+</div>
+</div>
+<div class="operate J_operate Hide">
+<a class="o-favor J_o-favor" data-click-name="shop_favor_click" data-fav-favortype="1" data-fav-referid="izTX2pV3EaKk4n0K" data-name="ZIMO子墨咖啡" data-shopid="izTX2pV3EaKk4n0K" href="javascript:void(0);" rel="nofollow" title=""><i></i><span>收藏</span></a>
+<span class="line">|</span>
+<a class="o-map J_o-map" data-address="兴善寺西街小寨路派出所旁领绣城负一楼（马柯美术博物馆内）" data-click-name="shop_map_click" data-poi="HCADWEZURHFWIP" data-shopid="izTX2pV3EaKk4n0K" data-sname="ZIMO子墨咖啡" href="javascript:void(0);" rel="nofollow" title="">地图</a>
+<span class="line">|</span>
+<a class="o-nearby J_o-nearby" data-click-name="shop_nearby_click" data-shopid="izTX2pV3EaKk4n0K" data-sname="ZIMO子墨咖啡" data-url="/search/around/17/0_izTX2pV3EaKk4n0K{keyword}" href="javascript:void(0);" rel="nofollow" title="">附近</a>
+</div>
+</li>]
+********over********
+
+Process finished with exit code 0

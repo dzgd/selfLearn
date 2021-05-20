@@ -1,0 +1,3 @@
+{'name': '杜志高', 'age': 23, 'score': 98}
+{'name': '郭大哥', 'age': 26, 'score': 99}
+{'name': '陈江磊', 'age': 23, 'score': 100}

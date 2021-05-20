@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Web服务器网站/douban_comments.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web服务器网站/spider/students.db" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bs4/regular.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/python excises/students.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scrapy01/demo/demo/BookPipeline.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/selenium/login/selenimu自动登录.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/selenium/login/service.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/selenium/mooc/spider mooc.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/selenium/phone/spyder.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/work/relearn/phones.db" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

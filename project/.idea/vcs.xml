@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/dianping_coffee_analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/machine_learn/DeepLearning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sucai_spider/sucaihuo_signin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wenben_github/nlp-beginner-finish" vcs="Git" />
+  </component>
+</project>
